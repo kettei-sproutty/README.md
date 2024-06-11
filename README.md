@@ -18,7 +18,7 @@ let alessio = About {
   city: City::Rome,
   spoken_languages: vec!["Italian", "English"],
   programming_languages: vec!["Rust", "Typescript"],
-  currently_studing: Subject::Algorithms,
+  currently_studying: Subject::Algorithms,
   hobbies: vec!["Webtoons", "History", "Travel"],
 };
 ```
