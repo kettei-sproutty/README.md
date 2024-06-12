@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/alessio-marchi-a007631b7/"><img src="https://img.shields.io/badge/alessio-marchi-a007631b7?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/alessio-marchi-a007631b/" alt="Linkedin: Alessio Marchi"></a>
   <a href="https://github.com/kettei-sproutty"><img src="https://img.shields.io/github/followers/kettei-sproutty?label=follow&amp;style=social" alt="GitHub Alessio"></a>
   <a href="https://alessiomarchi.dev"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Falessiomarchi.dev&up_message=portfolio&up_color=%231a1d21&down_message=maintenance&down_color=%231a1d21&style=flat-square&logo=web&label=alessiomarchi.dev&link=https%3A%2F%2Falessiomarchi.dev"></a>
+  <img src="https://komarev.com/ghpvc/?username=kettei-sproutty&color=green" alt="Profile views">
 </div>
 
 # 
